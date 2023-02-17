@@ -1,5 +1,5 @@
 # DS_Learning_Project_01
-Working with vacancies dataframe from hh.ru 
+Working with dataframe from hh.ru 
 
 # My data science projects
 
